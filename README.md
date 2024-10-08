@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning bioinformatics
 - 💞️ I’m looking to collaborate on Projects which focous's on improving biosciences 
 - 📫 How to reach me Email- durgesh.shamiit@gmail.com , whatsapp no: +91 8791321313
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am Nerd [- -]
 
 <!---
 DURGESH-BIOTECH/DURGESH-BIOTECH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
